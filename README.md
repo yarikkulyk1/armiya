@@ -1,5 +1,5 @@
 <html>
-<head>>
+<head>
 	<center><h1 style="color:red; font-size:60px;">X</h1></center>
 	<center><h1 style="color:red; font-size:60px;">Армія</h1></center>
 	<h6 style="color: green; font-size:60px;"><p>ff</p></h6>
